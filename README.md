@@ -1,2 +1,2 @@
 # Rezume_projects
-Just my projects for work (тестовый ридми)
+This repository is intended for projects as a portfolio for resume
